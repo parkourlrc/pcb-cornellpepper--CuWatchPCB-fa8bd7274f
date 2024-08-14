@@ -6130,6 +6130,12 @@
 		(uuid "e26b158f-d26f-470e-b3f7-e8a96446344c")
 	)
 	(junction
+		(at 59.69 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eaeb231b-42e3-41d6-82d9-d1f2e9507b4f")
+	)
+	(junction
 		(at 48.26 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6280,6 +6286,16 @@
 			(type default)
 		)
 		(uuid "0b8d98fd-f2f8-4e9f-af28-7cb7fd99ffcc")
+	)
+	(wire
+		(pts
+			(xy 59.69 176.53) (xy 68.58 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c5828b5-f1f3-4215-95af-e95c73096dd4")
 	)
 	(wire
 		(pts
@@ -6743,7 +6759,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 176.53) (xy 68.58 176.53)
+			(xy 55.88 176.53) (xy 59.69 176.53)
 		)
 		(stroke
 			(width 0)
@@ -9954,6 +9970,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 238.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 238.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor-PN" "WM6357CT-ND"
 			(at 238.76 148.59 0)
 			(effects
 				(font
@@ -13447,6 +13481,90 @@
 			(project ""
 				(path "/ac383860-6a7b-4462-9e55-9c1d02546802"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 59.69 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "470ae630-2528-487a-a6b0-ce4a048fa5b1")
+		(property "Reference" "TP9"
+			(at 57.658 168.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VSYS"
+			(at 57.658 170.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm"
+			(at 64.77 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" ""
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor-PN" ""
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f091913-ed64-4369-9424-41ce35d83ccc")
+		)
+		(instances
+			(project "Pepper-V2"
+				(path "/ac383860-6a7b-4462-9e55-9c1d02546802"
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -17236,6 +17354,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" ""
+			(at 62.23 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor-PN" ""
+			(at 62.23 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccbdb8f4-14e7-4315-a2ff-eda88353693b")
 		)
@@ -18180,6 +18316,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "Digikey"
+			(at 58.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor-PN" "WM5514-ND"
+			(at 58.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c60fe661-f4ab-478c-a960-b1ebe8260070")
 		)
@@ -18775,6 +18929,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 137.16 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor-PN" "CP-43515RSSJCT-ND"
+			(at 137.16 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

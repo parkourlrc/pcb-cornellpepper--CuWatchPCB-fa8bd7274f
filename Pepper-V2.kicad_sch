@@ -9969,7 +9969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN MICRO SD CARD PUSH-PULL R/A"
 			(at 238.76 148.59 0)
 			(effects
 				(font
@@ -10108,7 +10108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10UF 16V X5R 0805"
 			(at 227.33 119.38 0)
 			(effects
 				(font
@@ -10725,7 +10725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 207.01 120.65 0)
 			(effects
 				(font
@@ -10807,7 +10807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 199.39 120.65 0)
 			(effects
 				(font
@@ -11622,6 +11622,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf" "Omron Electronics Inc-EMC Div"
+			(at 256.54 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c74925b8-e007-4340-a822-35a8f6437d46")
 		)
@@ -11831,7 +11840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 1K OHM 1% 1/8W 0805"
 			(at 163.83 116.84 0)
 			(effects
 				(font
@@ -12012,6 +12021,15 @@
 			)
 		)
 		(property "manf#" "B3F-1000 "
+			(at 250.19 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Omron Electronics Inc-EMC Div"
 			(at 250.19 90.17 0)
 			(effects
 				(font
@@ -12493,7 +12511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, ceramic"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 157.48 165.1 0)
 			(effects
 				(font
@@ -12933,7 +12951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/8W 0805"
 			(at 121.92 64.77 0)
 			(effects
 				(font
@@ -13038,7 +13056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10UF 16V X5R 0805"
 			(at 20.32 83.82 0)
 			(effects
 				(font
@@ -13248,7 +13266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
+		(property "Description" "DIODE SCHOTTKY 40V 500MA SOD123"
 			(at 124.46 53.34 0)
 			(effects
 				(font
@@ -13258,6 +13276,15 @@
 			)
 		)
 		(property "manf#" "MBR0540T1G"
+			(at 124.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "onsemi"
 			(at 124.46 53.34 0)
 			(effects
 				(font
@@ -13325,7 +13352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RASPBERRY PI PICO W RP2040"
 			(at 214.63 55.88 0)
 			(effects
 				(font
@@ -13335,6 +13362,15 @@
 			)
 		)
 		(property "manf#" "SC0918"
+			(at 214.63 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Raspberry Pi"
 			(at 214.63 55.88 0)
 			(effects
 				(font
@@ -13748,7 +13784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 67.31 50.8 0)
 			(effects
 				(font
@@ -13757,7 +13793,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 1K OHM 1% 1/8W 0805"
+			(at 67.31 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RC0805FR-071KL"
 			(at 67.31 50.8 0)
 			(effects
 				(font
@@ -14357,6 +14402,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf" "onsemi"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b7166ae-a22f-4de3-b421-05b6643abb8d")
 		)
@@ -14423,7 +14477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 29.21 83.82 0)
 			(effects
 				(font
@@ -14680,7 +14734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 50V X7R 0805"
 			(at 24.13 133.35 0)
 			(effects
 				(font
@@ -14690,6 +14744,15 @@
 			)
 		)
 		(property "manf#" "UMK212B7105KG-T"
+			(at 24.13 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Taiyo Yuden"
 			(at 24.13 133.35 0)
 			(effects
 				(font
@@ -15699,7 +15762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 60.96 146.05 0)
 			(effects
 				(font
@@ -15966,7 +16029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 93.98 54.61 0)
 			(effects
 				(font
@@ -16451,7 +16514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 102.87 46.99 0)
 			(effects
 				(font
@@ -16529,7 +16592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.02UF 50V X7R 0805"
 			(at 148.59 53.34 0)
 			(effects
 				(font
@@ -16634,7 +16697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/8W 0805"
 			(at 109.22 58.42 0)
 			(effects
 				(font
@@ -17434,7 +17497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.47UF 50V X7R 0805"
 			(at 80.01 130.81 0)
 			(effects
 				(font
@@ -17539,7 +17602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 50V X7R 0805"
 			(at 85.09 88.9 0)
 			(effects
 				(font
@@ -18085,7 +18148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0805"
 			(at 68.58 133.35 0)
 			(effects
 				(font
@@ -18095,6 +18158,15 @@
 			)
 		)
 		(property "manf#" "C0805C220J5GAC7800"
+			(at 68.58 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "KEMET"
 			(at 68.58 133.35 0)
 			(effects
 				(font
@@ -18295,7 +18367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 50V X7R 0805"
 			(at 114.3 90.17 0)
 			(effects
 				(font
@@ -18503,7 +18575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED RED CLEAR 0805 SMD"
 			(at 185.42 93.98 0)
 			(effects
 				(font
@@ -18539,7 +18611,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" ""
+		(property "manf" "Würth Elektronik"
 			(at 185.42 93.98 0)
 			(effects
 				(font
@@ -18947,7 +19019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 194.31 120.65 0)
 			(effects
 				(font
@@ -19091,7 +19163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
+		(property "Description" "DIODE SCHOTTKY 40V 500MA SOD123"
 			(at 138.43 40.64 0)
 			(effects
 				(font
@@ -19101,6 +19173,15 @@
 			)
 		)
 		(property "manf#" "MBR0540T1G"
+			(at 138.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "onsemi"
 			(at 138.43 40.64 0)
 			(effects
 				(font
@@ -19647,6 +19728,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf" "Molex"
+			(at 58.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c60fe661-f4ab-478c-a960-b1ebe8260070")
 		)
@@ -20017,7 +20107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 390 OHM 1% 1/8W 0805"
 			(at 185.42 85.09 0)
 			(effects
 				(font
@@ -20450,7 +20540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 168.91 123.19 0)
 			(effects
 				(font
@@ -20556,7 +20646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1UF 50V X7R 0805"
 			(at 97.79 130.81 0)
 			(effects
 				(font

@@ -14556,7 +14556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "47 µF ±20% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"
+		(property "Description" "CAP CER 4.7UF 10V X5R 0805"
 			(at 41.91 181.61 0)
 			(effects
 				(font
@@ -14583,7 +14583,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM21BR61A476ME15L"
+		(property "manf#" "CL21A475KPFNNNG"
 			(at 41.91 181.61 0)
 			(effects
 				(font
@@ -14592,7 +14592,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "Murata Electronics"
+		(property "manf" "Samsung Electro-Mechanics"
 			(at 41.91 181.61 0)
 			(effects
 				(font
@@ -15058,7 +15058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10PF 16V X8R 0805"
 			(at 93.98 58.42 0)
 			(effects
 				(font
@@ -15085,7 +15085,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "885012007051"
+		(property "manf#" "C0805C100F4HAC7800"
 			(at 93.98 58.42 0)
 			(effects
 				(font
@@ -15094,7 +15094,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "Würth Elektronik"
+		(property "manf" "KEMET"
 			(at 93.98 58.42 0)
 			(effects
 				(font
@@ -19692,7 +19692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN BNC RCPT R/A 50 OHM PCB"
 			(at 58.42 64.77 0)
 			(effects
 				(font

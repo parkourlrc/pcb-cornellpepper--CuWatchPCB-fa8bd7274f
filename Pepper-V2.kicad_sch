@@ -11604,7 +11604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
 			(at 256.54 57.15 0)
 			(effects
 				(font
@@ -12011,7 +12011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
 			(at 250.19 90.17 0)
 			(effects
 				(font
@@ -17197,7 +17197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
+		(property "Description" "CONN RCPT USB2.0 MICRO B SMD R/A"
 			(at 26.67 181.61 0)
 			(effects
 				(font

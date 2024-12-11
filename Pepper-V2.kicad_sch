@@ -5,9 +5,9 @@
 	(uuid "ac383860-6a7b-4462-9e55-9c1d02546802")
 	(paper "USLetter")
 	(title_block
-		(title "CosmicWatch Cornell Edition")
-		(date "2024-08-05")
-		(rev "1")
+		(title "Shaker CuWatch")
+		(date "2024-12-11")
+		(rev "3")
 		(company "CLASSE/CPERL")
 	)
 	(lib_symbols

@@ -32,3 +32,10 @@ fp-info-cache
 .DS_Store
 ~$Pepper-V2.xlsx
 ~Pepper-V2.kicad_sch.lck
+**.lck
+boards_2025/7214212445.INV.pdf
+boards_2025/7214212445.pdf
+boards_2025/duty_vat_invoice_explanatory_notes.pdf
+boards_2025/Proforma  Invoice - 20250214225124.pdf
+boards_2025/Proforma  Invoice - 20250314225928.pdf
+/v3_board
